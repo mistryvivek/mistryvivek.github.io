@@ -1,0 +1,15 @@
+theme:
+  name: material
+  features:
+    - navigation.tabs
+site_name:
+  Vivek Mistry
+
+nav:
+  - Home: "index.md"
+  - Education: "education.md"
+  - Work:
+      - "Customer Orientated" : "work-customer.md"
+      - "Computer Science Orientated": "work-cs.md"
+  - Projects: "projects.md"
+  - Blog : "blogs.md"
