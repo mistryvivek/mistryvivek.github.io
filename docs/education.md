@@ -14,7 +14,7 @@
 | English Literature             | Pearson    | C     |
 
 * [Computer Science Coursework](https://github.com/mistryvivek/A-Level-NEA)
-* [EPQ Final Report](/attachments/epq-asfc.zip)
+* [EPQ ZIP](/attachments/epq-asfc.zip)
 
 # GCSEs @ West Hill School, Stalybridge
 
