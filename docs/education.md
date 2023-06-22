@@ -1,6 +1,7 @@
 # BEng Computer Science (with a Year in Industry) - 2021-2025 @ The University of York
 
 Stage 1: 80.3% (1st with Distinction)
+
 Modules:
 
 * Theory 1: Mathematical Foundations of Computer Science
@@ -12,6 +13,7 @@ Modules:
 * Data 1: Introduction to Data Science
 
 Stage 2: TBC
+
 Modules:
 
 * Human-Computer Interaction 2: User Experience
@@ -34,7 +36,7 @@ Modules:
 | English Literature             | Pearson    | C     |
 
 * [Computer Science Coursework](https://github.com/mistryvivek/A-Level-NEA)
-* [EPQ ZIP](/attachments/epq-asfc.zip)
+* [EPQ - Do what extend does Artifical Intelligence replicate human intelligence?](attachments/epq-asfc.zip)
 
 # GCSEs @ West Hill School, Stalybridge
 
